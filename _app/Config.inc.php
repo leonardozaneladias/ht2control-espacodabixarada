@@ -5,8 +5,8 @@ define('APP_NAME', 'SiForme');
 
 // CONFIGRAÇÕES DO BANCO ####################
 define('HOST', '127.0.0.1');
-define('USER', 'homestead');
-define('PASS', 'secret');
+define('USER', 'root');
+define('PASS', 'oowMTqYskdw7');
 define('DBSA', 'espacodabixarada');
 
 // DEFINE SERVIDOR DE E-MAIL ################
